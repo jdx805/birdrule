@@ -9,6 +9,9 @@ DOMAIN-KEYWORD,1e100
 #机场
 DOMAIN-SUFFIX,flyingbird.pro
 
+#vpn
+DOMAIN-SUFFIX,zerotier.com
+
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
