@@ -4,7 +4,7 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
-DOMAIN-SUFFIX,hao123.com
+#DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,muniu.pro
 DOMAIN-SUFFIX,fuliba2024.net
 DOMAIN-SUFFIX,yrxitong.com
